@@ -1,0 +1,7 @@
+_autosave*
+*.kicad_*-bak
+klingel-backups/
+*.tar.gz
+*.zip
+fp-info-cache
+\#auto_saved_files#
