@@ -170,3 +170,6 @@ time:
 ## Integration
 
 The PCB does not offer a built-in mechanism to measure soil humidity, but the [b-parasite](https://github.com/rbaron/b-parasite) open source project provides a suitable DIY capacitive soil moisture sensor that can easily be integrated using ZigBee / Home Assistant.
+
+## License
+The hardware and associated design files are released under the [Creative Commons CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
