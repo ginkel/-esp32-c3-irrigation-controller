@@ -14,6 +14,47 @@ Documentation are probably far fom complete. If you are missing a piece of the p
 
 ![schematics](img/schematic.png)
 
+## BOM
+
+| References     | Value                | LCSC part # |
+|----------------|----------------------|-------------|
+| C1             | 10nF                 | C57112      |
+| C2             | 10uF                 | C15849      |
+| C3             | 10uF                 | C89632      |
+| C4             | 10uF                 | C336204     |
+| C5             | 150uF                | C242120     |
+| C6, C8         | 100nF                | C1591       |
+| C7             | 1uF                  | C15849      |
+| C9             | 10uF                 | C194427     |
+| R2, R7, R8, R9 | 10k                  | C25804      |
+| R3, R6         | 1k                   | C21190      |
+| R4, R5, R13    | 47k                  | C25819      |
+| R10, R11       | 100                  | C22775      |
+| R12, R14       | 27                   | C863706     |
+| R15, R16       | 5.1k                 | C23186      |
+| R1             | 5.9k                 | C23071      |
+| L1             | 68uH                 | C694542     |
+| D1             | PMEG6010CEH,115      | C110797     |
+| D2             | SMAJ15CA             | C110044     |
+| D3             | SS52                 | C727051     |
+| D4             | B5819W SL            | C8598       |
+| D5             | CUS10S30,H3F         | C146335     |
+| D6, D7         | LED                  | C434419     |
+| D8, D9         | SS56                 | C2904059    |
+| D10            | LC03CI               | C384865     |
+| U1             | TPS5430DDA           | C9864       |
+| U2             | AMS1117-3.3          | C347222     |
+| U3             | SRV05-4              | C85364      |
+| U4             | ESP32-C3-WROOM-02    | C2934560    |
+| F1             | BSMD1812-200-24V     | C206993     |
+| SW1, SW2       | XUNPU TS-1089S-02526 | C455282     |
+| Q1, Q2         | IRF7401              | C5346818    |
+| J1, J2, J3     | DB128L-5.08-2P-GN-P  | C430600     |
+| J4             | USB-C Connector      | C165948     |
+| J5             | DB125-2.54-2P-GN-S   | C918120     |
+
+I am sourcing my components from LCSC. If you also do, the LCSC part # may be helpful.
+
 ## External Parts
 
 For a full-fledged plant watering solution you'll need some additional components/parts. Links go to AliExpress, but you can of course source the components from other sources if you prefer a different suppliers.
