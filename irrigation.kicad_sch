@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "ESP32-C3 Plant Watering Controller")
-		(date "2023-06-26")
-		(rev "0.2")
+		(date "2024-05-12")
+		(rev "0.3")
 		(company "Thilo-Alexander Ginkel")
 	)
 	(lib_symbols
