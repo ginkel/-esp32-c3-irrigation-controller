@@ -8,6 +8,8 @@ If you'd like to solder the PCB yourself, the smallest component to be soldered 
 
 If you only need one channel (for a single pump), you can leave R5, R6, R11 D7, D9, Q2 and J3 unpopulated.
 
+Documentation are probably far fom complete. If you are missing a piece of the puzzle, feel free to open an issue or improve the documentation using a PR.
+
 ## Schematic
 
 ![schematics](img/schematic.png)
